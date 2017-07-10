@@ -1,0 +1,7 @@
+.card-container {
+    background: beige;
+    padding: 1em;
+    max-width: 200px;
+    min-height: 50px;
+    margin-bottom: 10px;
+}
